@@ -1,0 +1,38 @@
+modLoader="lowcodefml"
+loaderVersion="[43,)"
+license="All Right Reserved"
+authors="DevDyna"
+
+[[mods]]
+    modId = "elementz"
+    version = "1.0"
+    displayName = "ElementZ - Elementalcraft Addon "
+    description = "Do you hate mob drops? or do you want use other mods to use elementalcraft? this is what i made!"
+	
+[[dependencies.elementz]]
+    modId = "forge"
+    mandatory = true
+	ordering = "NONE"
+    versionRange = "[43.2.21,)"
+    side = "BOTH"
+
+[[dependencies.elementz]]
+	modId = "minecraft"
+	mandatory = true
+	ordering = "NONE"
+	versionRange = "[1.19.2,)"
+	side = "BOTH"
+
+[[dependencies.elementz]]
+    modId = "jsonthings"
+    mandatory = true
+    versionRange = "[0.7.15,)"
+    ordering = "NONE"
+    side = "BOTH"
+	
+[[dependencies.elementz]]
+    modId = "elementalcraft"
+    mandatory = true
+    versionRange = "[1.19.2-5.8.5,)"
+    ordering = "NONE"
+    side = "BOTH"

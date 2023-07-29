@@ -1,0 +1,25 @@
+{
+  "__parent": "other:fluidjson",
+  "type": "flowing",
+  "fluid_type": {
+    "can_convert_to_source": false,
+    "__translation_key": "block.modid.air_condensed",
+    "still_texture": "minecraft:block/water_still",
+    "flowing_texture": "minecraft:block/water_flow",
+    "side_texture": "minecraft:block/water_overlay",
+    "_rarity": "epic",
+    "color": [255,255,155],
+    "density": 100,
+    "luminosity": 15,
+    "temperature": 100,
+    "viscosity": 100,
+    "gaseous": false,
+    "fill_sound": "item.bucket.empty",
+    "empty_sound": "item.bucket.fill"
+  },
+  "__properties": {},
+  "__default_state": {},
+  "bucket": false,
+  "block": true,
+  "__events": {}
+}
