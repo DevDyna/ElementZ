@@ -1,5 +1,4 @@
 # ElementZ
-Minecraft Mod - Elementalcraft Addon Quality Life
 
 Elementalcraft Quality Life , mod simplifications and various tweaks
 
