@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "elementz:item/powerful_empty_shard"
+  }
+}

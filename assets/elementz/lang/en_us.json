@@ -1,0 +1,9 @@
+{
+	"item.elementz.empty_shard": "Empty Shard",
+	"item.elementz.powerful_empty_shard": "Powerful Empty Shard",
+	"fluid_type.elementz.fire_condensed": "Liquid Fire Element",
+	"fluid_type.elementz.water_condensed": "Liquid Water Element",
+	"fluid_type.elementz.air_condensed": "Liquid Air Element",
+	"fluid_type.elementz.earth_condensed": "Liquid Earth Element",
+	"itemGroup.elementz.elementz":"ElementZ - ElementalCraft Addon"
+}
