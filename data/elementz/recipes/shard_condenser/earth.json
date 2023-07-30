@@ -1,0 +1,14 @@
+{
+  "type": "elementalcraft:binding",
+  "element_amount": 2000,
+  "element_type": "earth",
+  "ingredients": [
+    {
+      "item": "elementalcraft:earth_shard"
+    }
+  ],
+  "output": {
+    "item": "elementalcraft:powerful_earth_shard",
+	"count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "elementalcraft:infusion",
+  "element_amount": 2250,
+  "element_type": "air",
+  "input": {
+    "item": "elementz:powerful_empty_shard"
+  },
+  "output": {
+    "item": "elementalcraft:powerful_air_shard"
+  }
+}

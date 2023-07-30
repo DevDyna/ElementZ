@@ -1,0 +1,16 @@
+{
+  "type": "reactive:dissolve",
+  "reactant": {
+    "tag": "elementalcraft:crystals/elemental"
+  },
+  "product": {
+    "item": "elementalcraft:inert_crystal"
+  }
+  ,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "reactive"
+    }
+  ]
+}

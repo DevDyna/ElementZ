@@ -1,0 +1,14 @@
+{
+  "type": "elementalcraft:binding",
+  "element_amount": 2000,
+  "element_type": "fire",
+  "ingredients": [
+    {
+      "item": "elementalcraft:fire_shard"
+    }
+  ],
+  "output": {
+    "item": "elementalcraft:powerful_fire_shard",
+	"count": 1
+  }
+}

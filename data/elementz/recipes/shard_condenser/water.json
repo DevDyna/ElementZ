@@ -1,0 +1,14 @@
+{
+  "type": "elementalcraft:binding",
+  "element_amount": 2000,
+  "element_type": "water",
+  "ingredients": [
+    {
+      "item": "elementalcraft:water_shard"
+    }
+  ],
+  "output": {
+    "item": "elementalcraft:powerful_water_shard",
+	"count": 1
+  }
+}
