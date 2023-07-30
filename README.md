@@ -28,3 +28,6 @@ Planned:
 
 
 Opinions and issues are very useful
+
+Download Link : https://www.curseforge.com/minecraft/mc-mods/elementz-elementalcraft-addon
+
