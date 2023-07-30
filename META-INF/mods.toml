@@ -1,11 +1,12 @@
-modLoader="lowcodefml"
-loaderVersion="[43,)"
-license="All Right Reserved"
-authors="DevDyna"
+modLoader = "lowcodefml"
+loaderVersion = "[43,)"
+license = "All Right Reserved"
+authors = "DevDyna"
+logoFile = "pack.png"
 
 [[mods]]
     modId = "elementz"
-    version = "1.0"
+    version = "${file.jarVersion}"
     displayName = "ElementZ - Elementalcraft Addon "
     description = "Do you hate mob drops? or do you want use other mods to use elementalcraft? this is what i made!"
 	
@@ -34,5 +35,40 @@ authors="DevDyna"
     modId = "elementalcraft"
     mandatory = true
     versionRange = "[1.19.2-5.8.5,)"
+    ordering = "NONE"
+    side = "BOTH"
+
+[[dependencies.elementz]]
+    modId = "reactive"
+    mandatory = false
+    versionRange = "[1.19.2-5e,)"
+    ordering = "NONE"
+    side = "BOTH"
+	
+[[dependencies.elementz]]
+    modId = "patchouli"
+    mandatory = false
+    versionRange = "[1.19.2-77,)"
+    ordering = "NONE"
+    side = "BOTH"
+	
+[[dependencies.elementz]]
+    modId = "immersiveengineering"
+    mandatory = false
+    versionRange = "[1.19.2-9.2.2-165,)"
+    ordering = "NONE"
+    side = "BOTH"
+	
+[[dependencies.elementz]]
+    modId = "thermal_expansion"
+    mandatory = false
+    versionRange = "[1.19.2-10.2.0.21,)"
+    ordering = "NONE"
+    side = "BOTH"
+	
+[[dependencies.elementz]]
+    modId = "botania"
+    mandatory = false
+    versionRange = "[1.19.2-440-FORGE,)"
     ordering = "NONE"
     side = "BOTH"
