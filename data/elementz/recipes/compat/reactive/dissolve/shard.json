@@ -1,0 +1,16 @@
+{
+  "type": "reactive:dissolve",
+  "reactant": {
+    "tag": "elementalcraft:shards/default"
+  },
+  "product": {
+    "item": "elementz:empty_shard"
+  }
+  ,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "reactive"
+    }
+  ]
+}
