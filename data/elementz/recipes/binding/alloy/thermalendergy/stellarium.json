@@ -1,0 +1,64 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermalendergy"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    {
+      "tag": "forge:nether_stars"
+    },
+    [
+      {
+        "tag": "forge:ingots/netherite"
+      },
+      {
+        "tag": "forge:dusts/netherite"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/netherite"
+      },
+      {
+        "tag": "forge:dusts/netherite"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/netherite"
+      },
+      {
+        "tag": "forge:dusts/netherite"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/netherite"
+      },
+      {
+        "tag": "forge:dusts/netherite"
+      }
+    ],
+    {
+      "tag": "forge:clay"
+    },
+    {
+      "tag": "forge:clay"
+    },
+    {
+      "tag": "forge:clay"
+    },
+    {
+      "tag": "forge:clay"
+    }
+  ],
+  "output": {
+    "item": "thermal:stellarium_ingot",
+    "count": 1
+  }
+}

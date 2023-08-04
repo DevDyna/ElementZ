@@ -1,0 +1,41 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    [
+      {
+        "tag": "forge:ingots/nickel"
+      },
+      {
+        "tag": "forge:dusts/nickel"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/iron"
+      },
+      {
+        "tag": "forge:dusts/iron"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/iron"
+      },
+      {
+        "tag": "forge:dusts/iron"
+      }
+    ]
+  ],
+  "output": {
+    "item": "thermal:invar_ingot",
+    "count": 3
+  }
+}

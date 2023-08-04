@@ -1,0 +1,28 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 250,
+  "ingredients": [
+    [
+      {
+        "tag": "forge:ingots/iron"
+      },
+      {
+        "tag": "forge:dusts/iron"
+      }
+    ],
+    {
+      "tag": "minecraft:coals"
+    }
+  ],
+  "output": {
+    "item": "mekanism:enriched_iron",
+    "count": 1
+  }
+}

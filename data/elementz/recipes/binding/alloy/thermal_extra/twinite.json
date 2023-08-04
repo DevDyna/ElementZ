@@ -1,0 +1,34 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal_extra"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    {
+      "tag": "forge:gems/apatite"
+    },
+    {
+      "tag": "forge:gems/amethyst"
+    },
+    {
+      "tag": "forge:gems/amethyst"
+    },
+    [
+      {
+        "tag": "forge:ingots/enderium"
+      },
+      {
+        "tag": "forge:dusts/enderium"
+      }
+    ]
+  ],
+  "output": {
+    "item": "thermal:twinite_ingot",
+    "count": 1
+  }
+}

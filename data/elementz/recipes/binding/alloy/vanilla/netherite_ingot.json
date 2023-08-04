@@ -1,0 +1,28 @@
+{
+  "type": "elementalcraft:binding",
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    [
+      {
+        "tag": "forge:ingots/gold"
+      },
+      {
+        "tag": "forge:dusts/gold"
+      }
+    ],
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    }
+  ],
+  "output": "minecraft:netherite_ingot"
+}

@@ -1,0 +1,45 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermalendergy"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    {
+      "tag": "forge:dusts/prismarine"
+    },
+    {
+      "tag": "forge:dusts/prismarine"
+    },
+    {
+      "tag": "forge:dusts/prismarine"
+    },
+    {
+      "tag": "forge:gems/prismarine"
+    },
+    [
+      {
+        "tag": "forge:ingots/nickel"
+      },
+      {
+        "tag": "forge:dusts/nickel"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/nickel"
+      },
+      {
+        "tag": "forge:dusts/nickel"
+      }
+    ]
+  ],
+  "output": {
+    "item": "thermal:prismalium_ingot",
+    "count": 1
+  }
+}

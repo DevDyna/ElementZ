@@ -1,0 +1,28 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    [
+      {
+        "tag": "forge:ingots/iron"
+      },
+      {
+        "tag": "forge:dusts/iron"
+      }
+    ],
+    {
+      "tag": "forge:coal_coke"
+    }
+  ],
+  "output": {
+    "item": "immersiveengineering:ingot_steel",
+    "count": 1
+  }
+}

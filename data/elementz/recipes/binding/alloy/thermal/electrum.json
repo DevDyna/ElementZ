@@ -1,0 +1,33 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    [
+      {
+        "tag": "forge:ingots/gold"
+      },
+      {
+        "tag": "forge:dusts/gold"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/silver"
+      },
+      {
+        "tag": "forge:dusts/silver"
+      }
+    ]
+  ],
+  "output": {
+    "item": "thermal:electrum_ingot",
+    "count": 2
+  }
+}

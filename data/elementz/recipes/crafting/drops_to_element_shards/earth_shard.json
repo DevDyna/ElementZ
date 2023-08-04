@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "elementz:powerful_empty_shard"
+    },
+    {
+      "tag": "elementz:earth_drop"
+    },
+    {
+      "tag": "elementz:earth_drop"
+    },
+    {
+      "tag": "elementz:earth_drop"
+    }
+  ],
+  "result": {
+    "item": "elementalcraft:powerful_earth_shard",
+    "count": 1
+  }
+}

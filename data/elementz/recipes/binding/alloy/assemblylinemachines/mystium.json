@@ -1,0 +1,40 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    {
+      "tag": "forge:dusts/mystium"
+    },
+    {
+      "tag": "forge:ingots/energized_gold"
+    },
+    {
+      "tag": "forge:ingots/energized_gold"
+    },
+    {
+      "tag": "forge:ingots/energized_gold"
+    },
+    {
+      "tag": "forge:ingots/energized_gold"
+    },
+    [
+      {
+        "tag": "forge:ingots/netherite"
+      },
+      {
+        "tag": "forge:dusts/netherite"
+      }
+    ]
+  ],
+  "output": {
+    "item": "assemblylinemachines:mystium_ingot",
+    "count": 1
+  }
+}

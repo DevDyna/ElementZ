@@ -1,0 +1,14 @@
+{
+  "type": "elementalcraft:binding",
+  "element_amount": 2000,
+  "element_type": "air",
+  "ingredients": [
+    {
+      "item": "elementalcraft:air_shard"
+    }
+  ],
+  "output": {
+    "item": "elementalcraft:powerful_air_shard",
+	"count": 1
+  }
+}

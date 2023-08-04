@@ -1,0 +1,57 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermalendergy"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    {
+      "item": "minecraft:chorus_fruit"
+    },
+    {
+      "item": "minecraft:chorus_fruit"
+    },
+    {
+      "item": "minecraft:chorus_fruit"
+    },
+    {
+      "item": "minecraft:chorus_fruit"
+    },
+    {
+      "tag": "forge:gems/amethyst"
+    },
+    {
+      "tag": "forge:gems/amethyst"
+    },
+    {
+      "tag": "forge:gems/amethyst"
+    },
+    {
+      "tag": "forge:gems/amethyst"
+    },
+    [
+      {
+        "tag": "forge:ingots/gold"
+      },
+      {
+        "tag": "forge:dusts/gold"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/gold"
+      },
+      {
+        "tag": "forge:dusts/gold"
+      }
+    ]
+  ],
+  "output": {
+    "item": "thermal:melodium_ingot",
+    "count": 1
+  }
+}

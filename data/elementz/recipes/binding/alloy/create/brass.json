@@ -1,0 +1,49 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    [
+      {
+        "tag": "forge:ingots/zinc"
+      },
+      {
+        "tag": "forge:dusts/zinc"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/copper"
+      },
+      {
+        "tag": "forge:dusts/copper"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/copper"
+      },
+      {
+        "tag": "forge:dusts/copper"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/copper"
+      },
+      {
+        "tag": "forge:dusts/copper"
+      }
+    ]
+  ],
+  "output": {
+    "item": "create:brass_ingot",
+    "count": 4
+  }
+}

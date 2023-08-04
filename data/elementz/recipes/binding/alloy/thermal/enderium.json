@@ -1,0 +1,65 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    [
+      {
+        "tag": "forge:gems/diamond"
+      },
+      {
+        "tag": "forge:dusts/diamond"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/lead"
+      },
+      {
+        "tag": "forge:dusts/lead"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/lead"
+      },
+      {
+        "tag": "forge:dusts/lead"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/lead"
+      },
+      {
+        "tag": "forge:dusts/lead"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ender_pearls"
+      },
+      {
+        "tag": "forge:dusts/ender_pearl"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ender_pearls"
+      },
+      {
+        "tag": "forge:dusts/ender_pearl"
+      }
+    ]
+  ],
+  "output": {
+    "item": "thermal:enderium_ingot",
+    "count": 2
+  }
+}

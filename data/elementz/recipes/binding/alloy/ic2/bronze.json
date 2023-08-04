@@ -1,0 +1,49 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ic2"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    [
+      {
+        "tag": "forge:ingots/copper"
+      },
+      {
+        "tag": "forge:dusts/copper"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/copper"
+      },
+      {
+        "tag": "forge:dusts/copper"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/copper"
+      },
+      {
+        "tag": "forge:dusts/copper"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/tin"
+      },
+      {
+        "tag": "forge:dusts/tin"
+      }
+    ]
+  ],
+  "output": {
+    "item": "ic2:ingot_bronze",
+    "count": 4
+  }
+}

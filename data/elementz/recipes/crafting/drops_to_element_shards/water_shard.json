@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "elementz:powerful_empty_shard"
+    },
+    {
+      "tag": "elementz:water_drop"
+    },
+    {
+      "tag": "elementz:water_drop"
+    },
+    {
+      "tag": "elementz:water_drop"
+    }
+  ],
+  "result": {
+    "item": "elementalcraft:powerful_water_shard",
+    "count": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "twilightforest"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    {
+      "tag": "twilightforest:fiery_vial"
+    },
+    [
+      {
+        "tag": "forge:ingots/iron"
+      },
+      {
+        "tag": "forge:dusts/iron"
+      }
+    ]
+  ],
+  "output": {
+    "item": "twilightforest:fiery_ingot",
+    "count": 1
+  }
+}

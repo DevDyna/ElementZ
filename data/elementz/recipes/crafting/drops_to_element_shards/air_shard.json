@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "elementz:powerful_empty_shard"
+    },
+    {
+      "tag": "elementz:air_drop"
+    },
+    {
+      "tag": "elementz:air_drop"
+    },
+    {
+      "tag": "elementz:air_drop"
+    }
+  ],
+  "result": {
+    "item": "elementalcraft:powerful_air_shard",
+    "count": 1
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "electrodynamics"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    [
+      {
+        "tag": "forge:ingots/steel"
+      },
+      {
+        "tag": "forge:dusts/steel"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/steel"
+      },
+      {
+        "tag": "forge:dusts/steel"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/steel"
+      },
+      {
+        "tag": "forge:dusts/steel"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/steel"
+      },
+      {
+        "tag": "forge:dusts/steel"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/steel"
+      },
+      {
+        "tag": "forge:dusts/steel"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/steel"
+      },
+      {
+        "tag": "forge:dusts/steel"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/steel"
+      },
+      {
+        "tag": "forge:dusts/steel"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/steel"
+      },
+      {
+        "tag": "forge:dusts/steel"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/vanadium"
+      },
+      {
+        "tag": "forge:dusts/vanadium"
+      }
+    ]
+  ],
+  "output": {
+    "item": "electrodynamics:ingotvanadiumsteel",
+    "count": 8
+  }
+}

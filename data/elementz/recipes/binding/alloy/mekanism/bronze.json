@@ -1,0 +1,50 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    [
+      {
+        "tag": "forge:ingots/tin"
+      },
+      {
+        "tag": "forge:dusts/tin"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/copper"
+      },
+      {
+        "tag": "forge:dusts/copper"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/copper"
+      },
+      {
+        "tag": "forge:dusts/copper"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/copper"
+      },
+      {
+        "tag": "forge:dusts/copper"
+      }
+    ]
+    
+  ],
+  "output": {
+    "item": "mekanism:ingot_bronze",
+    "count": 4
+  }
+}

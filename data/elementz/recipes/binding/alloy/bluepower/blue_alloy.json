@@ -1,0 +1,37 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "bluepower"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    {
+      "tag": "forge:dusts/teslatite"
+    },
+    {
+      "tag": "forge:dusts/teslatite"
+    },
+    {
+      "tag": "forge:dusts/teslatite"
+    },
+    {
+      "tag": "forge:dusts/teslatite"
+    },
+    [
+      {
+        "tag": "forge:ingots/silver"
+      },
+      {
+        "tag": "forge:dusts/silver"
+      }
+    ]
+  ],
+  "output": {
+    "item": "bluepower:blue_alloy_ingot",
+    "count": 1
+  }
+}

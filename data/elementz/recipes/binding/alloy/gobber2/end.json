@@ -1,0 +1,29 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "gobber2"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    {
+      "item": "gobber2:gobber2_glob_end"
+    },
+    {
+      "item": "minecraft:chorus_flower"
+    },
+    {
+      "item": "gobber2:gobber2_ingot_nether"
+    },
+    {
+      "item": "gobber2:gobber2_ingot_nether"
+    }
+  ],
+  "output": {
+    "item": "gobber2:gobber2_ingot_end",
+    "count": 4
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "elementz:powerful_empty_shard"
+    },
+    {
+      "tag": "elementz:fire_drop"
+    },
+    {
+      "tag": "elementz:fire_drop"
+    },
+    {
+      "tag": "elementz:fire_drop"
+    }
+  ],
+  "result": {
+    "item": "elementalcraft:powerful_fire_shard",
+    "count": 1
+  }
+}

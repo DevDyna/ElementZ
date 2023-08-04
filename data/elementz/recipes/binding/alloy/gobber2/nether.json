@@ -1,0 +1,29 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "gobber2"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    {
+      "item": "gobber2:gobber2_glob_nether"
+    },
+    {
+      "item": "minecraft:netherite_scap"
+    },
+    {
+      "item": "gobber2:gobber2_ingot"
+    },
+    {
+      "item": "gobber2:gobber2_ingot"
+    }
+  ],
+  "output": {
+    "item": "gobber2:gobber2_ingot_nether",
+    "count": 4
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal_extra"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    {
+      "tag": "forge:gems/apatite"
+    },
+    {
+      "item": "minecraft:shulker_shell"
+    },
+    {
+      "item": "minecraft:shulker_shell"
+    },
+    [
+      {
+        "tag": "forge:ingots/bronze"
+      },
+      {
+        "tag": "forge:dusts/bronze"
+      }
+    ]
+  ],
+  "output": {
+    "item": "thermal:shellite_ingot",
+    "count": 1
+  }
+}

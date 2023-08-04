@@ -1,0 +1,32 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:item_empty",
+      "item": "thermal:ingot_steel"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    [
+      {
+        "tag": "forge:ingots/iron"
+      },
+      {
+        "tag": "forge:dusts/iron"
+      }
+    ],
+    {
+      "tag": "forge:coal_coke"
+    }
+  ],
+  "output": {
+    "item": "thermal:ingot_steel",
+    "count": 1
+  }
+}

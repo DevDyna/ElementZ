@@ -1,0 +1,40 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal_extra"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    {
+      "tag": "forge:gems/apatite"
+    },
+    {
+      "tag": "forge:gems/apatite"
+    },
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    [
+      {
+        "tag": "forge:ingots/netherite"
+      },
+      {
+        "tag": "forge:dusts/netherite"
+      }
+    ]
+  ],
+  "output": {
+    "item": "thermal:dragonsteel_ingot",
+    "count": 1
+  }
+}

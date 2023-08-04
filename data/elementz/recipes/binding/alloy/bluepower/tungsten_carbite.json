@@ -1,0 +1,52 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "bluepower"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:coal"
+      },
+      {
+        "tag": "forge:dusts/coal"
+      }
+    ],
+    [
+      {
+        "item": "minecraft:coal"
+      },
+      {
+        "tag": "forge:dusts/coal"
+      }
+    ],
+    [
+      {
+        "item": "minecraft:coal"
+      },
+      {
+        "tag": "forge:dusts/coal"
+      }
+    ],
+    [
+      {
+        "item": "minecraft:coal"
+      },
+      {
+        "tag": "forge:dusts/coal"
+      }
+    ],
+    {
+      "tag": "forge:ingot/tungsten"
+    }
+  ],
+  "output": {
+    "item": "bluepower:tungsten_carbite",
+    "count": 1
+  }
+}

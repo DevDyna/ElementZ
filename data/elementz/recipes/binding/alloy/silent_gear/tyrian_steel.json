@@ -1,0 +1,27 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "silentgear"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    {
+      "tag": "forge:ingots/crimson_steel"
+    },
+    {
+      "tag": "forge:ingots/azure_electrum"
+    },
+    {
+      "item": "silentgear:crushed_shulker_shell"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    }
+  ],
+  "output": "silentgear:blaze_gold_ingot",
+  "count": 4
+}

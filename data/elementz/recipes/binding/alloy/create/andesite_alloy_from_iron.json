@@ -1,0 +1,23 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 250,
+  "ingredients": [
+    {
+      "item": "minecraft:andesite"
+    },
+    {
+      "tag": "forge:nuggets/iron"
+    }
+  ],
+  "output": {
+    "item": "create:andesite_alloy",
+    "count": 1
+  }
+}

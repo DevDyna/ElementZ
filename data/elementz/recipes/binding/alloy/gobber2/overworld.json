@@ -1,0 +1,39 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "gobber2"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    {
+      "item": "gobber2:gobber2_glob"
+    },
+    {
+      "tag": "forge:gems/diamond"
+    },
+    [
+      {
+        "tag": "forge:ingots/iron"
+      },
+      {
+        "tag": "forge:dusts/iron"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/iron"
+      },
+      {
+        "tag": "forge:dusts/iron"
+      }
+    ]
+  ],
+  "output": {
+    "item": "gobber2:gobber2_ingot",
+    "count": 4
+  }
+}

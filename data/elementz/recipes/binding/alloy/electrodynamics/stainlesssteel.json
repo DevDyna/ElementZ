@@ -1,0 +1,49 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "electrodynamics"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    [
+      {
+        "tag": "forge:ingots/chromium"
+      },
+      {
+        "tag": "forge:dusts/chromium"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/steel"
+      },
+      {
+        "tag": "forge:dusts/steel"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/steel"
+      },
+      {
+        "tag": "forge:dusts/steel"
+      }
+    ],
+    [
+      {
+        "tag": "forge:ingots/steel"
+      },
+      {
+        "tag": "forge:dusts/steel"
+      }
+    ]
+  ],
+  "output": {
+    "item": "electrodynamics:ingotstainlesssteel",
+    "count": 4
+  }
+}

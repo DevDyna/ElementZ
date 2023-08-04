@@ -1,0 +1,23 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    {
+      "item": "assemblylinemachines:raw_novasteel_compound"
+    },
+    {
+      "item": "assemblylinemachines:nova_blend"
+    }
+  ],
+  "output": {
+    "item": "assemblylinemachines:novasteel_ingot",
+    "count": 1
+  }
+}

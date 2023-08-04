@@ -1,0 +1,28 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "assemblylinemachines"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    [
+      {
+        "tag": "forge:ingots/flerovium"
+      },
+      {
+        "tag": "forge:dusts/flerovium"
+      }
+    ],
+    {
+      "tag": "forge:ingots/attuned_titanium"
+    }
+  ],
+  "output": {
+    "item": "assemblylinemachines:raw_novasteel_compound",
+    "count": 1
+  }
+}

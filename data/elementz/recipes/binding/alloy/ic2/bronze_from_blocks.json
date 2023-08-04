@@ -1,0 +1,29 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ic2"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+      {
+        "tag": "forge:storage_blocks/copper"
+      },
+      {
+        "tag": "forge:storage_blocks/copper"
+      },
+      {
+        "tag": "forge:storage_blocks/copper"
+      },
+      {
+        "tag": "forge:storage_blocks/tin"
+      }
+  ],
+  "output": {
+    "item": "ic2:ingot_bronze",
+    "count": 36
+  }
+}

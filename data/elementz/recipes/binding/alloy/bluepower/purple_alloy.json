@@ -1,0 +1,23 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "bluepower"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    {
+      "item": "bluepower:blue_alloy_ingot"
+    },
+    {
+      "item": "bluepower:red_alloy_ingot"
+    }
+  ],
+  "output": {
+    "item": "bluepower:purple_alloy_ingot",
+    "count": 1
+  }
+}

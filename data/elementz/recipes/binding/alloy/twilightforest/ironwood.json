@@ -1,0 +1,26 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "twilightforest"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    {
+      "item": "twilightforest:liveroot"
+    },
+    {
+      "tag": "forge:raw_materials/iron"
+    },
+    {
+      "tag": "forge:nuggets/gold"
+    }
+  ],
+  "output": {
+    "item": "twilightforest:ironwood_ingot",
+    "count": 1
+  }
+}

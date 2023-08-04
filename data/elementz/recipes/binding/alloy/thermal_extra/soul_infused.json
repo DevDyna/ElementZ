@@ -1,0 +1,34 @@
+{
+  "type": "elementalcraft:binding",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal_extra"
+    }
+  ],
+  "element_type": "fire",
+  "element_amount": 1250,
+  "ingredients": [
+    {
+      "tag": "forge:gems/apatite"
+    },
+    {
+      "tag": "forge:dusts/soul_sand"
+    },
+    {
+      "tag": "forge:dusts/soul_sand"
+    },
+    [
+      {
+        "tag": "forge:ingots/invar"
+      },
+      {
+        "tag": "forge:dusts/invar"
+      }
+    ]
+  ],
+  "output": {
+    "item": "thermal:soul_infused_ingot",
+    "count": 1
+  }
+}
