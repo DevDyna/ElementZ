@@ -1,0 +1,8 @@
+{
+	"credit": "Made by AlleCraft",
+  "parent": "minecraft:block/template_glass_pane_side",
+  "textures": {
+    "pane": "elementalcraft:block/springaline_glass",
+    "edge": "elementalcraft:block/springaline_glass_pane_top"
+  }
+}

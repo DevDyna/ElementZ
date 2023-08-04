@@ -1,0 +1,8 @@
+{
+	"credit": "Made by AlleCraft",
+  "parent": "minecraft:block/template_glass_pane_post",
+  "textures": {
+    "pane": "elementalcraft:block/burnt_glass",
+    "edge": "elementalcraft:block/burnt_glass_pane_top"
+  }
+}

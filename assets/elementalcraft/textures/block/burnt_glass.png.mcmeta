@@ -1,0 +1,15 @@
+{
+	"credit": "Made by AlleCraft",
+   "ctm": {
+     "ctm_version": 1,
+     "type": "ctm",
+     "layer": "TRANSLUCENT",
+     "textures": [
+            "elementalcraft:block/burnt_glass_ctm"
+     ],
+     "extra": {
+       "light": 0,
+       "connect_inside": true
+     }
+   }
+ }
